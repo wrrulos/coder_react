@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "name": "Monitor Led Viewsonic 20 Va2055sm Full Hd Vga Dvi 60hz",
+      "price": 50,
+      "image": "./img/accesorios/monitores/1.jpg",
+      "stock": 20
+    },
+    {
+      "id": 2,
+      "name": "Monitor Led 19 Pulgadas LG 19m38a-b Pc Hd Wide 60hz Vga Vesa",
+      "price": 53,
+      "image": "./img/accesorios/monitores/2.jpg",
+      "stock": 15
+    },
+    {
+      "id": 3,
+      "name": "Monitor gamer HP M24f LCD 23.8\" negro y plata 100V/240 HD",
+      "price": 60,
+      "image": "./img/accesorios/monitores/3.jpg",
+      "stock": 25
+    },
+    {
+      "id": 4,
+      "name": "Monitor Samsung 24 T350 Full Hd Ips 75hz Sin Bordes Freesync",
+      "price": 57,
+      "image": "./img/accesorios/monitores/4.jpg",
+      "stock": 18
+    },
+    {
+      "id": 5,
+      "name": "Monitor Daewoo DW-MON19 led 19\" negro 100V/240V",
+      "price": 56,
+      "image": "./img/accesorios/monitores/5.jpg",
+      "stock": 22
+    },
+    {
+      "id": 6,
+      "name": "Pad Grande Xl 90x28cm Bigg Gamer Mouse Y Teclado",
+      "price": 6,
+      "image": "./img/accesorios/mousepads/1.jpg",
+      "stock": 30
+    },
+    {
+      "id": 7,
+      "name": "Mouse Pad Xl Gamer Oficina Antideslizante Negro 80x40 HD",
+      "price": 5,
+      "image": "./img/accesorios/mousepads/2.jpg",
+      "stock": 28
+    },
+    {
+      "id": 8,
+      "name": "Mouse Pad De Escritorio Mat Pad Gamer Master Edition",
+      "price": 2.5,
+      "image": "./img/accesorios/mousepads/3.jpg",
+      "stock": 35
+    },
+    {
+      "id": 9,
+      "name": "Mouse Pad Spider Man Licencia Oficial Original Nuevo",
+      "price": 2,
+      "image": "./img/accesorios/mousepads/4.jpg",
+      "stock": 32
+    },
+    {
+      "id": 10,
+      "name": "Mouse Pad Gamer Grande Gigante 70 X 30cm. Hamake Version",
+      "price": 5.5,
+      "image": "./img/accesorios/mousepads/5.jpg",
+      "stock": 40
+    }
+]
+  
